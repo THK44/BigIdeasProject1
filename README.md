@@ -19,14 +19,14 @@ JupyterLab - Where the program was created
 
 
 # Authors
-Thomas Downes
-Thomas Ku
+Thomas Downes,
+Thomas Ku,
 Elliot Blasko
 
 # License
 Refer to License.md and CoC.md for more details.
 
 # Acknowledgements
-Rae Clayton - TA of the Lab
-Adam Lee - Teacher of the class
+Rae Clayton - TA of the Lab,
+Adam Lee - Teacher of the class,
 Big Ideas - The class itself
